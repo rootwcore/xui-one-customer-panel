@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./screenshots/xui-one-customer-panel-banner.png" alt="XUI Customer Panel Banner " width="100%">
+</p>
+
+<br>
+
 # ⚡ XUI.ONE Customer Panel
 
 A modern, lightweight customer panel for **XUI.ONE** based IPTV services.  
@@ -206,24 +212,21 @@ m3u8
 
 ## 🖼️ Screenshots
 
-Add your panel images to the `screenshots` folder and update these paths if needed.
+<p align="center">
+  <img src="./screenshots/SS01.png" alt="XUI Customer Panel Screen Shot " width="100%">
+</p>
 
-```markdown
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Bouquet Management](screenshots/bouquets.png)
-![Password Page](screenshots/password.png)
-```
+<p align="center">
+  <img src="./screenshots/SS02.png" alt="XUI Customer Panel Screen Shot" width="100%">
+</p>
 
-Suggested screenshot names:
+<p align="center">
+  <img src="./screenshots/SS03.png" alt="XUI Customer Panel Screen Shot" width="100%">
+</p>
 
-```text
-screenshots/login.png
-screenshots/dashboard.png
-screenshots/bouquets.png
-screenshots/password.png
-screenshots/mobile.png
-```
+<p align="center">
+  <img src="./screenshots/SS04.png" alt="XUI Customer Panel Screen Shot" width="100%">
+</p>
 
 ---
 
