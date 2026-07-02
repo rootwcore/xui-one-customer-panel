@@ -1,0 +1,11 @@
+config.php
+storage/*.json
+storage/*.log
+storage/*.sqlite
+storage/*.db
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+*.bak
