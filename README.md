@@ -32,7 +32,7 @@ Customers can sign in with their line username and password, view subscription d
 
 | Step | What You Do | Result |
 |---|---|---|
-| 1️⃣ Upload | Upload the files to cPanel or Plesk | The panel files are ready on your hosting |
+| 1️⃣ Upl. | Upload the files to cPanel or Plesk | The panel files are ready on your hosting |
 | 2️⃣ Conf. | Copy `config.example.php` to `config.php` and enter your XUI.ONE API details | The panel connects to your XUI.ONE server |
 | 3️⃣ Use | Customers sign in with their line username and password | They can manage bouquets, password and playlist URL |
 
